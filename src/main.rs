@@ -11,7 +11,7 @@ use format::OutputFormat;
 #[command(
     name = "sentinel",
     version,
-    about = "Sentinel Labs operator CLI",
+    about = "Sentinels operator CLI",
     long_about = None
 )]
 struct Cli {

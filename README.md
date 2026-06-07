@@ -1,6 +1,6 @@
 # sentinel-cli
 
-**Operator CLI for the Sentinel Labs fleet.** Talks to [`sentinel-cloud`](https://github.com/Sentinels-Today/sentinel-cloud), generates device keys offline, and locally re-verifies the hash-chained audit log returned by the API.
+**Operator CLI for the Sentinels fleet.** Talks to [`sentinel-cloud`](https://github.com/Sentinels-Today/sentinel-cloud), generates device keys offline, and locally re-verifies the hash-chained audit log returned by the API.
 
 [![ci](https://github.com/Sentinels-Today/sentinel-cli/actions/workflows/ci.yml/badge.svg)](https://github.com/Sentinels-Today/sentinel-cli/actions/workflows/ci.yml)
 ![license](https://img.shields.io/badge/license-Apache--2.0-blue)
